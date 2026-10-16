@@ -1,0 +1,41 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "villa-1",
+      "description": "Modern Minimalist Infinity Pool Villa",
+      "imageUrl": "https://picsum.photos/seed/villa1/1200/800",
+      "imageHint": "luxury villa"
+    },
+    {
+      "id": "villa-2",
+      "description": "Mediterranean Coastal Estate",
+      "imageUrl": "https://picsum.photos/seed/villa2/1200/800",
+      "imageHint": "mediterranean mansion"
+    },
+    {
+      "id": "villa-3",
+      "description": "Contemporary Glass Mountain Retreat",
+      "imageUrl": "https://picsum.photos/seed/villa3/1200/800",
+      "imageHint": "modern architecture"
+    },
+    {
+      "id": "villa-4",
+      "description": "Tropical Balinese Luxury Resort",
+      "imageUrl": "https://picsum.photos/seed/villa4/1200/800",
+      "imageHint": "bali villa"
+    },
+    {
+      "id": "villa-5",
+      "description": "Classic French Riviera Mansion",
+      "imageUrl": "https://picsum.photos/seed/villa5/1200/800",
+      "imageHint": "french chateau"
+    },
+    {
+      "id": "villa-6",
+      "description": "Ultra-Modern Desert Oasis",
+      "imageUrl": "https://picsum.photos/seed/villa6/1200/800",
+      "imageHint": "desert villa"
+    }
+  ]
+}
